@@ -1,0 +1,3 @@
+[submodule "online-blogging-system"]
+	path = online-blogging-system
+	url = https://github.com/Anjukushwah/online-blogging-system.git
